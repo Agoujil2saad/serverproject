@@ -95,6 +95,7 @@ public class DBManager implements Serializable
             }
             st.close();
         }
+        //hi this is just a test
         catch (Exception e)
         {
             e.printStackTrace();
