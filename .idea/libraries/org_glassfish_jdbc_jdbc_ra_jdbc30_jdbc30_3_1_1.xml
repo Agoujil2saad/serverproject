@@ -1,0 +1,49 @@
+<component name="libraryTable">
+  <library name="org.glassfish.jdbc.jdbc-ra.jdbc30:jdbc30:3.1.1" type="repository">
+    <properties maven-id="org.glassfish.jdbc.jdbc-ra.jdbc30:jdbc30:3.1.1" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/jdbc30-3.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jdbc-core-3.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/glassfish-api-3.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/scattered-archive-api-3.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hk2-1.1.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hk2-core-1.1.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/class-model-1.1.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/junit-4.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/config-1.1.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/tiger-types-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/bean-validator-1.1.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jtype-0.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/auto-depends-1.1.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/asm-all-repackaged-1.1.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/config-types-1.1.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/grizzly-utils-1.9.36.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/grizzly-lzma-1.9.36.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/connectors-internal-api-3.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/config-api-3.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/grizzly-config-1.9.36.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/osgi-adapter-1.0.25.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/grizzly-http-1.9.36.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/grizzly-framework-1.9.36.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/grizzly-rcm-1.9.36.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/grizzly-portunif-1.9.36.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/transaction-internal-api-3.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javax.transaction-3.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javax.resource-3.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javax.persistence-2.0.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/internal-api-3.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/dol-3.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javax.servlet-3.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javax.annotation-3.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javax.enterprise.deploy-3.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javax.ejb-3.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/deployment-common-3.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/annotation-framework-3.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/common-util-3.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/management-api-3.1.0-b001.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/gmbal-3.1.0-b001.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
