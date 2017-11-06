@@ -123,7 +123,7 @@ public class GrossisteMetier  extends UnicastRemoteObject implements IGrossisteM
         String get_sum = DBProductQueries.getSumBuyedProducts(user_id);
         ResultSet sum_products = dbm.ExecuteResultSet(get_sum);
         while(sum_products.next()){
-            total = Integer.parseInt(sum_products.getString("total"));
+            total = (int) Double.parseDouble(sum_products.getString("total"));
         }
     } catch (Exception e){
             e.printStackTrace();
